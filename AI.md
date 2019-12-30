@@ -1,0 +1,3 @@
+- [ ] implement the game player AI using ISMCTS
+- [ ] collect significant data from self-gameplay
+- [ ] implement the bidder AI
