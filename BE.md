@@ -65,6 +65,6 @@ GR과 상호작용 {
   
 }
 
-- [ ] 
+- [ ] Server Class, Container(GR한테 받아오는거) Class
 - [ ] 
 - [ ] 
